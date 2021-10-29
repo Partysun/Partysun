@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, 👋 I'm Yura Zatsepin - aka [Partysun] CPO at Santiment
 
-<!--
-**Partysun/Partysun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/YuraZatsepin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YuraZatsepin)
 
-Here are some ideas to get you started:
+- 🇷🇺 born in Russia
+- 🌏 man
+- 👨‍💻 **Developer, Product, Crypto**
+- 💱 hobby trader
+- Co-founder of **[Santiment](https://app.santiment.net)**
+- ⚡ I love to play guitar / drums / Escape from Tarkov / HOTS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[Sanbase](https://app.santiment.net/profile/120)
+[Instagram](https://www.instagram.com/yura.zatsepin/)
+[Linkedin](www.linkedin.com/in/yurazatsepin)
+[Medium](https://medium.com/@zacepin)
