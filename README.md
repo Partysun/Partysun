@@ -7,7 +7,7 @@
 - 👨‍💻 **Developer, Product, Crypto**
 - 💱 hobby trader
 - Co-founder of **[Santiment](https://app.santiment.net)**
-- ⚡ I love to play guitar / drums / Escape from Tarkov / HOTS
+- I love to play guitar / drums / Escape from Tarkov / HOTS
 
 ### Connect with me:
 
@@ -15,3 +15,4 @@
 [Instagram](https://www.instagram.com/yura.zatsepin/)
 [Linkedin](www.linkedin.com/in/yurazatsepin)
 [Medium](https://medium.com/@zacepin)
+[zatsepin.dev](https://www.zatsepin.dev)
