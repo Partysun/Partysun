@@ -1,4 +1,4 @@
-### Hi there, 👋 I'm Yura Zatsepin - aka [Partysun] CPO at Santiment
+### Hi there, 👋 I'm Yura Zatsepin - aka [Partysun]
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/YuraZatsepin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=YuraZatsepin)
 
@@ -6,7 +6,7 @@
 - 🌏 man
 - 👨‍💻 **Developer, Product, Crypto**
 - 💱 hobby trader
-- Co-founder of **[Santiment](https://app.santiment.net)**
+- Ex-CPO at **[Santiment](https://app.santiment.net)**
 - I love to play guitar / drums / Escape from Tarkov / HOTS
 
 ### Connect with me:
